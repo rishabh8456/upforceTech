@@ -7,7 +7,6 @@ This is a **React.js + TypeScript** project for managing products, featuring CRU
 ✅ **Sort Products** by price  
 ✅ **Add, Edit & Delete Products**  
 ✅ **Responsive Design** with Tailwind CSS  
-✅ **State Management** using `useContext`  
 
 ---
 
